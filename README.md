@@ -8,7 +8,7 @@
 - 🌟 **Web Developer** with a knack for creating sleek and functional designs.  
 - 🎥 Skilled in **short video editing**, crafting engaging Instagram and YouTube content.  
 - 🖌️ Experienced in **logo making** with an eye for impactful branding.  
-- 🌊 Inspired by the spiritual vibes of **Varanasi and the Ganga River**.  
+- 🌊 Inspired by the spiritual vibes of **INDIA and the Ganga River**.  
 - 🤖 Currently diving into **AI and automation** for innovative business solutions.  
 
 ---
