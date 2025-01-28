@@ -46,6 +46,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/assets/graph.png?raw=true" alt="Contribution graph animation" />
-</p>
+## 📈 Contribution Graph
+[![Anjani Singh's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnjaniSingh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
