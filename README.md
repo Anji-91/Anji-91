@@ -1,6 +1,6 @@
 # Hi there, I'm Anjani Singh 👋  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&width=435&lines=Web+Developer+%7C+Video+Editor;AI+Enthusiast+%7C+Logo+Designer;Passionate+About+Tech+%7C+Storyteller)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Web+Developer+%7C+AI+Enthusiast;🎬+Video+Editor+%7C+Creative+Designer;💡+Tech+Innovator+%7C+Storyteller;✨+Passionate+About+Creativity+and+Code)
 
 ---
 
