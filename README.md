@@ -31,10 +31,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjaniSingh&show_icons=true&theme=radical" alt="Anjani Singh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniSingh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjaniSingh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Anjani Singh's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaniSingh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniSingh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -47,4 +48,4 @@
 ---
 
 ## 📈 Contribution Graph
-[![Anjani Singh's Contribution Graph I Will Tell You Later]
+[![Anjani Singh's Contribution Graph you Will know Later on]!]
