@@ -1,0 +1,73 @@
+<svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #070B12; }
+    .grid { stroke: #133142; stroke-width: 1; opacity: 0.45; }
+    .cyan { stroke: #00E5FF; }
+    .gold { stroke: #F5C542; }
+    .red { stroke: #FF3D00; }
+    .soft { opacity: 0.65; }
+    .tiny { font: 500 12px Consolas, Monaco, monospace; fill: #8EDFF2; letter-spacing: 2px; }
+    .label { font: 700 18px Consolas, Monaco, monospace; fill: #FFFFFF; letter-spacing: 2px; }
+    .metric { font: 700 14px Consolas, Monaco, monospace; fill: #F5C542; letter-spacing: 1px; }
+    .ringA { transform-origin: 450px 180px; animation: spin 12s linear infinite; }
+    .ringB { transform-origin: 450px 180px; animation: spinBack 9s linear infinite; }
+    .ringC { transform-origin: 450px 180px; animation: pulse 2.6s ease-in-out infinite; }
+    .scan { animation: scan 3.2s ease-in-out infinite; }
+    .blink { animation: blink 1.4s steps(2, end) infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes spinBack { to { transform: rotate(-360deg); } }
+    @keyframes pulse { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
+    @keyframes scan { 0% { transform: translateX(-260px); opacity: 0; } 20% { opacity: 0.8; } 80% { opacity: 0.8; } 100% { transform: translateX(260px); opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0.25; } }
+  </style>
+
+  <rect class="bg" width="900" height="360" rx="28"/>
+  <path class="grid" d="M40 60H860M40 120H860M40 180H860M40 240H860M40 300H860"/>
+  <path class="grid" d="M100 32V328M180 32V328M260 32V328M340 32V328M420 32V328M500 32V328M580 32V328M660 32V328M740 32V328M820 32V328"/>
+
+  <rect x="30" y="28" width="840" height="304" rx="20" stroke="#184D5E" stroke-width="2"/>
+  <path d="M50 82H225L250 58H360" stroke="#00E5FF" stroke-width="2"/>
+  <path d="M850 278H675L650 302H540" stroke="#F5C542" stroke-width="2"/>
+
+  <g class="ringA">
+    <circle cx="450" cy="180" r="112" class="cyan soft" stroke-width="3" stroke-dasharray="54 18"/>
+    <circle cx="450" cy="180" r="90" class="gold soft" stroke-width="2" stroke-dasharray="18 16"/>
+  </g>
+  <g class="ringB">
+    <circle cx="450" cy="180" r="68" class="red soft" stroke-width="3" stroke-dasharray="22 12"/>
+    <path d="M450 88L468 140H432L450 88Z" stroke="#00E5FF" stroke-width="2"/>
+    <path d="M542 180L490 198V162L542 180Z" stroke="#F5C542" stroke-width="2"/>
+    <path d="M450 272L432 220H468L450 272Z" stroke="#00E5FF" stroke-width="2"/>
+    <path d="M358 180L410 162V198L358 180Z" stroke="#F5C542" stroke-width="2"/>
+  </g>
+  <g class="ringC">
+    <circle cx="450" cy="180" r="38" fill="#00E5FF" opacity="0.16"/>
+    <circle cx="450" cy="180" r="28" fill="#00E5FF" opacity="0.35"/>
+    <circle cx="450" cy="180" r="14" fill="#FFFFFF" opacity="0.95"/>
+  </g>
+
+  <rect class="scan" x="420" y="48" width="60" height="264" fill="#00E5FF" opacity="0.11"/>
+
+  <text x="60" y="58" class="tiny">SYSTEM PROFILE</text>
+  <text x="60" y="94" class="label">ANJANI SINGH</text>
+  <text x="60" y="124" class="tiny">WEB DESIGNER / AI AUTOMATION DEVELOPER</text>
+  <text x="60" y="172" class="metric">3+ YEARS EXPERIENCE</text>
+  <text x="60" y="204" class="metric">10+ RESPONSIVE WEBSITES</text>
+  <text x="60" y="236" class="metric">REACT + TAILWIND + PYTHON</text>
+  <text x="60" y="268" class="metric">ORACLE AI FOUNDATIONS 2025</text>
+
+  <text x="620" y="58" class="tiny">MISSION DATA</text>
+  <text x="620" y="98" class="metric">AI AUTOMATION</text>
+  <rect x="620" y="112" width="190" height="8" rx="4" fill="#14313B"/>
+  <rect x="620" y="112" width="166" height="8" rx="4" fill="#00E5FF"/>
+  <text x="620" y="150" class="metric">FRONTEND DESIGN</text>
+  <rect x="620" y="164" width="190" height="8" rx="4" fill="#3B2309"/>
+  <rect x="620" y="164" width="174" height="8" rx="4" fill="#F5C542"/>
+  <text x="620" y="202" class="metric">VISUAL STORYTELLING</text>
+  <rect x="620" y="216" width="190" height="8" rx="4" fill="#3C1510"/>
+  <rect x="620" y="216" width="156" height="8" rx="4" fill="#FF3D00"/>
+  <text x="620" y="254" class="metric">QUANT RESEARCH</text>
+  <rect x="620" y="268" width="190" height="8" rx="4" fill="#14313B"/>
+  <rect x="620" y="268" width="132" height="8" rx="4" fill="#00E5FF"/>
+  <text x="620" y="304" class="tiny blink">REACTOR STATUS: BUILD READY</text>
+</svg>
