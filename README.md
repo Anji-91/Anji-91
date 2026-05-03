@@ -102,13 +102,32 @@ I like building projects that feel useful and alive: a clean interface, a strong
 
 ---
 
-## Contribution Graph
+## Creative Pulse
 
 <div align="center">
 
-![Anjani Singh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnjaniSingh&theme=tokyo-night&hide_border=true&area=true&custom_title=Anjani%20Singh's%20Contribution%20Journey)
+[![Spotify](https://img.shields.io/badge/Spotify-Creative%20Mode%20On-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+[![Mood](https://img.shields.io/badge/Mood-Coding%20%2B%20Editing-36BCF7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Inspiration](https://img.shields.io/badge/Inspiration-Ganga%20Vibes-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white)](#)
 
 </div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I am listening to</h3>
+      <p>Lo-fi beats for coding, Bollywood soul for late-night edits, and cinematic background scores when an idea needs drama.</p>
+      <p><strong>Current vibe:</strong> calm focus, clean screens, sharp cuts.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Behind the screen</h3>
+      <p><strong>Building:</strong> AI-powered web ideas</p>
+      <p><strong>Editing:</strong> short videos with strong hooks</p>
+      <p><strong>Designing:</strong> logos and brand visuals</p>
+      <p><strong>Learning:</strong> automation that saves real time</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
