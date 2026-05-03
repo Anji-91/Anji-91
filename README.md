@@ -1,124 +1,175 @@
 <div align="center">
 
-![Arc Reactor Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4A0E0E,45:B91C1C,75:F59E0B,100:00E5FF&text=ANJANI%20SINGH&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Web%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Editor&descAlignY=58&descSize=18&animation=fadeIn)
+![Arc Reactor Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:070B12,35:4A0E0E,70:B91C1C,100:00E5FF&text=ANJANI%20SINGH&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Web%20Designer%20%7C%20AI%20Automation%20Developer%20%7C%20Visual%20Storyteller&descAlignY=58&descSize=17&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=850&color=00E5FF&center=true&vCenter=true&width=780&lines=JARVIS%3A+Build+sequence+initialized;Writing+interfaces+that+feel+clear;Combining+AI%2C+web%2C+and+visual+storytelling;Editing+ideas+until+they+feel+sharp;Shipping+from+India+with+global+intent)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&pause=850&color=00E5FF&center=true&vCenter=true&width=840&lines=Building+responsive+websites+with+clean+execution;Turning+AI+ideas+into+working+automation;Designing+interfaces+that+feel+sharp+and+usable;Editing+stories+for+attention%2C+clarity%2C+and+impact)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Anji-91&style=for-the-badge&color=00E5FF&labelColor=4A0E0E)](https://github.com/Anji-91)
 [![GitHub](https://img.shields.io/badge/GitHub-Anji--91-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0E0E)](https://github.com/Anji-91)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A0E0E)](https://www.linkedin.com/in/anjani-singh-6bb790261/)
-[![Instagram](https://img.shields.io/badge/Instagram-Creative%20Feed-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A0E0E)](https://www.instagram.com/anjani._.26/)
+[![Instagram](https://img.shields.io/badge/Instagram-Creative%20Work-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A0E0E)](https://www.instagram.com/anjani._.26/)
+
+<br>
+
+![Arc Reactor HUD](./assets/arc-reactor-hud.svg)
 
 </div>
 
 ---
 
-## Mission Briefing
+## System Brief
 
 ```yaml
-call_sign: Anjani Singh
-base: India
-core_drive: Build useful tech with memorable creative energy
-main_systems:
-  - Web development
-  - AI and automation
-  - Short video editing
-  - Logo and brand design
-creative_compass:
-  - Indian roots with a global builder mindset
-  - Interfaces that feel clear, fast, and intentional
-  - AI used for real utility, not just hype
-  - Visual stories that hold attention in the first few seconds
+name: Anjani Singh
+role: Web Designer and AI Automation Developer
+experience: 3+ years
+education: B.Tech in Artificial Intelligence and Machine Learning, UPES
+graduation: 2027
+focus:
+  - responsive web design
+  - AI automation with Python and APIs
+  - frontend development with React and Tailwind
+  - app prototyping, UX/UI, and visual storytelling
 ```
 
-I work at the intersection of code, content, and intelligent systems. For me, a good digital product is not only functional; it should feel focused, visually sharp, and worth remembering after someone closes the tab.
+I build digital experiences that combine clean design, practical automation, and strong presentation. My work ranges from responsive websites for real clients to AI-powered tools, data simulations, and creative content systems.
 
 ---
 
-## Suit Systems
+## Reactor Readout
 
 <table>
   <tr>
     <td width="25%" valign="top">
-      <h3>Mark I: Web Armor</h3>
-      <p>Responsive pages, sleek UI, landing experiences, and browser-based products that feel clean and fast.</p>
+      <h3>3+ Years</h3>
+      <p>Hands-on experience across web design, frontend development, AI automation, and client-facing delivery.</p>
     </td>
     <td width="25%" valign="top">
-      <h3>Mark II: AI Core</h3>
-      <p>AI tools, automation ideas, data workflows, and experiments that turn manual work into smart systems.</p>
+      <h3>10+ Websites</h3>
+      <p>Designed, developed, and maintained responsive websites for retail, healthcare, and tech clients.</p>
     </td>
     <td width="25%" valign="top">
-      <h3>Mark III: Edit Bay</h3>
-      <p>Short-form video editing for Instagram and YouTube with hooks, pacing, cuts, and strong visual rhythm.</p>
+      <h3>20% Faster</h3>
+      <p>Used agile design sprints to reduce project delivery time while improving client satisfaction.</p>
     </td>
     <td width="25%" valign="top">
-      <h3>Mark IV: Brand Engine</h3>
-      <p>Logo concepts, visual identity, creative direction, and storytelling shaped for modern digital brands.</p>
+      <h3>500+ Users</h3>
+      <p>Built a Python and API-based Discord news automation system for a large online community.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Arc Reactor Stack
+## Core Systems
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Frontend Interface</h3>
+      <p>Responsive websites, UI layouts, brand-consistent pages, and fast user experiences built with HTML, CSS, JavaScript, React, and Tailwind.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI Automation Engine</h3>
+      <p>Python automation, API integrations, chatbot flows, AI-powered app concepts, and workflows that reduce repetitive manual work.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Research and Product Thinking</h3>
+      <p>Quantitative research simulation experience, FICO-based default prediction modeling, app prototyping, and user-centered product design.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technical Arsenal
 
 <div align="center">
 
-### Frontend Power
 ![HTML5](https://img.shields.io/badge/HTML5-FF3D00?style=for-the-badge&logo=html5&logoColor=white&labelColor=4A0E0E)
 ![CSS3](https://img.shields.io/badge/CSS3-00A6FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=4A0E0E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F5C542?style=for-the-badge&logo=javascript&logoColor=black&labelColor=4A0E0E)
+![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black&labelColor=4A0E0E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=4A0E0E)
 
-### AI + Data Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=4A0E0E)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=4A0E0E)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=4A0E0E)
+![APIs](https://img.shields.io/badge/APIs-00E5FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=4A0E0E)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F5C542?style=for-the-badge&logo=scikitlearn&logoColor=black&labelColor=4A0E0E)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=4A0E0E)
+![GitHub](https://img.shields.io/badge/Git%20%2F%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0E0E)
 
-### Creative Lab
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=4A0E0E)
+![UX/UI](https://img.shields.io/badge/UX%20%2F%20UI-00E5FF?style=for-the-badge&logo=materialdesign&logoColor=white&labelColor=4A0E0E)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=4A0E0E)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=4A0E0E)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white&labelColor=4A0E0E)
 
 </div>
 
 ---
 
-## JARVIS Console
+## Selected Work
 
-```js
-const anjani = {
-  role: "developer, AI explorer, and visual storyteller",
-  buildMode: ["responsive interfaces", "AI workflows", "automation concepts"],
-  editMode: ["short-form video", "brand visuals", "story-first content"],
-  designTaste: ["clear", "cinematic", "practical", "memorable"],
-  inspiration: "India, the Ganga River, and future-facing technology",
-  mission: "build digital work that feels useful, focused, and visually alive"
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI-Powered Mental Health Chatbot</h3>
+      <p>Built a Python-based NLP chatbot with sentiment analysis to provide empathetic responses and track user wellness patterns.</p>
+      <p><strong>Signal:</strong> AI + NLP + wellness-focused UX.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Eco-Tracker: Carbon Footprint Calculator</h3>
+      <p>Created a React and Chart.js web app that connects external APIs to calculate and visualize a user's carbon footprint.</p>
+      <p><strong>Signal:</strong> React + data visualization + sustainability.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Automated Discord News Server</h3>
+      <p>Engineered a Python bot using news APIs to automate real-time news aggregation for an online community.</p>
+      <p><strong>Signal:</strong> Python + APIs + automation at community scale.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Doctor Consultation App</h3>
+      <p>Prototyped a React Native app in Figma with an AI symptom checker and a patient booking UI/UX flow.</p>
+      <p><strong>Signal:</strong> app prototyping + health tech + UX planning.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>JPMorgan Quantitative Research Simulation</h3>
+      <p>Analyzed loan data, estimated customer default probability, and used dynamic programming to convert FICO scores into categorical prediction inputs.</p>
+      <p><strong>Signal:</strong> quant methods + risk modeling + data thinking.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Client Website Delivery</h3>
+      <p>Designed and maintained 10+ responsive websites, aligned pages with brand guidelines, and improved delivery through agile design sprints.</p>
+      <p><strong>Signal:</strong> frontend delivery + client work + brand consistency.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Featured Builds
+## Credentials
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>AI Calorie Tracker</h3>
-      <p>A food image analysis concept that turns a simple meal photo into estimated calories, macros, and useful nutrition context.</p>
-      <p><strong>Why it matters:</strong> health tracking becomes easier when the interface removes friction instead of adding more steps.</p>
-      <p><strong>Stack direction:</strong> AI vision, Python, nutrition data, responsive web UI.</p>
+      <h3>Certification Matrix</h3>
+      <p>Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate.</p>
+      <p>JPMorgan Chase & Co. Quantitative Research Job Simulation.</p>
+      <p>Aumbram startup internship certification and marketing internship experience.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Asiatic Lion Conservation</h3>
-      <p>A visual storytelling project built around wildlife awareness, emotional pacing, and respect for India's natural heritage.</p>
-      <p><strong>Why it matters:</strong> conservation stories need more than information; they need visuals that make people pause.</p>
-      <p><strong>Stack direction:</strong> research, editing, narrative structure, creative direction.</p>
+      <h3>Education</h3>
+      <p>Bachelor's Degree in Artificial Intelligence and Machine Learning.</p>
+      <p>University of Petroleum and Energy Studies, expected graduation 2027.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Relationship Advice Chatbot</h3>
-      <p>An AI chatbot concept designed to guide difficult conversations with clarity, calm language, and thoughtful prompts.</p>
-      <p><strong>Why it matters:</strong> emotional products need careful UX, not generic answers pretending to understand people.</p>
-      <p><strong>Stack direction:</strong> chatbot flow, AI automation, UX writing, safety-first design.</p>
+      <h3>Languages</h3>
+      <p>Hindi: native.</p>
+      <p>English: advanced.</p>
+      <p>Spanish: beginner.</p>
     </td>
   </tr>
 </table>
@@ -129,46 +180,19 @@ const anjani = {
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/Spotify-Listening%20Mode-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=4A0E0E)](https://open.spotify.com/)
-![Focus](https://img.shields.io/badge/Focus-Deep%20Work-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=4A0E0E)
-![Edit Mode](https://img.shields.io/badge/Edit%20Mode-Cinematic-F5C542?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=4A0E0E)
-![Mood](https://img.shields.io/badge/Mood-Desi%20%2B%20Future-FF3D00?style=for-the-badge&logo=spotify&logoColor=white&labelColor=4A0E0E)
+[![Spotify](https://img.shields.io/badge/Spotify-Work%20Mode-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=4A0E0E)](https://open.spotify.com/)
+![Focus](https://img.shields.io/badge/Focus-Code%20Blocks-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=4A0E0E)
+![Edit Mode](https://img.shields.io/badge/Edit%20Mode-Story%20Cuts-F5C542?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=4A0E0E)
+![Launch](https://img.shields.io/badge/Launch-Ship%20Clean-FF3D00?style=for-the-badge&logo=rocket&logoColor=white&labelColor=4A0E0E)
 
 </div>
 
-Music sets the pace for how I work: quiet loops for logic, cinematic energy for edits, lyrical tracks for emotion, and electronic tracks when it is time to polish and ship.
-
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <h3>01 Logic</h3>
-      <p><strong>Sound:</strong> lo-fi, ambient, minimal beats.</p>
-      <p><strong>Use:</strong> writing code, debugging, building clean layouts.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>02 Motion</h3>
-      <p><strong>Sound:</strong> cinematic scores and high-energy drops.</p>
-      <p><strong>Use:</strong> editing reels, pacing cuts, building visual rhythm.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>03 Emotion</h3>
-      <p><strong>Sound:</strong> Hindi indie, Bollywood soul, lyrical tracks.</p>
-      <p><strong>Use:</strong> storytelling, brand mood, human-centered ideas.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>04 Launch</h3>
-      <p><strong>Sound:</strong> synthwave, electronic, future bass.</p>
-      <p><strong>Use:</strong> final polish, commits, uploads, and deployment energy.</p>
-    </td>
-  </tr>
-</table>
-
 ```txt
-CURRENT SIGNAL
-Code focus        [#########-] 90%
-Visual direction  [########--] 80%
-Story instinct    [########--] 80%
-Launch energy     [#######---] 70%
+WORKFLOW MIX
+Deep focus tracks     -> code, bug fixing, layout polish
+Cinematic scores      -> video pacing, storytelling, transitions
+Hindi and indie music -> emotion, brand mood, creative direction
+Electronic energy     -> final checks, commits, uploads
 ```
 
 ---
@@ -186,30 +210,30 @@ Launch energy     [#######---] 70%
 
 ---
 
-## Collaboration Portal
+## Open To
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Build With Me</h3>
-      <p>Websites, landing pages, AI tool concepts, dashboards, and practical automation flows.</p>
+      <h3>Web Projects</h3>
+      <p>Responsive websites, landing pages, dashboards, portfolio sites, and client-focused frontend builds.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Create With Me</h3>
-      <p>Reels, shorts, brand visuals, logo concepts, and storytelling projects with a strong hook.</p>
+      <h3>AI Automation</h3>
+      <p>Python bots, API workflows, AI prototypes, app concepts, and automation systems with practical use cases.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Explore With Me</h3>
-      <p>AI experiments, creative tech ideas, product concepts, and future-ready business solutions.</p>
+      <h3>Creative Tech</h3>
+      <p>Brand visuals, short-form video systems, UI concepts, storytelling projects, and digital product ideas.</p>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A0E0E)](https://www.linkedin.com/in/anjani-singh-6bb790261/)
-[![Instagram](https://img.shields.io/badge/Instagram-See%20My%20Edits-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A0E0E)](https://www.instagram.com/anjani._.26/)
-[![GitHub](https://img.shields.io/badge/GitHub-Enter%20The%20Lab-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0E0E)](https://github.com/Anji-91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A0E0E)](https://www.linkedin.com/in/anjani-singh-6bb790261/)
+[![Instagram](https://img.shields.io/badge/Instagram-View%20Creative%20Work-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A0E0E)](https://www.instagram.com/anjani._.26/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0E0E)](https://github.com/Anji-91)
 
 </div>
 
@@ -217,8 +241,8 @@ Launch energy     [#######---] 70%
 
 <div align="center">
 
-### Designing, building, and shipping one sharper idea at a time.
+### Clean interfaces. Useful automation. Visual stories that land.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00E5FF,45:F59E0B,75:B91C1C,100:4A0E0E)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:00E5FF,35:F5C542,70:B91C1C,100:070B12)
 
 </div>
