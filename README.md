@@ -11,7 +11,7 @@
 
 <br>
 
-![Arc Reactor HUD](./assets/arc-reactor-hud.svg)
+![Arc Reactor HUD](./arc-reactor-hud.svg)
 
 </div>
 
