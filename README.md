@@ -1,143 +1,193 @@
 <div align="center">
 
-# Hi, I'm Anjani Singh
+![Arc Reactor Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4A0E0E,45:B91C1C,75:F59E0B,100:00E5FF&text=ANJANI%20SINGH&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Web%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Editor&descAlignY=58&descSize=18&animation=fadeIn)
 
-### Web Developer | AI Explorer | Video Editor | Creative Designer
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=850&color=00E5FF&center=true&vCenter=true&width=780&lines=JARVIS%3A+Developer+mode+initialized;Arc+reactor+online+%7C+Ideas+charging;Building+web+apps+with+AI+power;Editing+stories+frame+by+frame;Deploying+creativity+from+India+to+the+world)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+clean+web+experiences;Exploring+AI+and+automation;Editing+stories+for+social+media;Designing+brands+with+impact;Creating+with+code%2C+culture%2C+and+curiosity)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=AnjaniSingh&style=for-the-badge&color=36BCF7)](https://github.com/AnjaniSingh)
-[![GitHub Followers](https://img.shields.io/github/followers/AnjaniSingh?style=for-the-badge&logo=github&color=181717&labelColor=0D1117)](https://github.com/AnjaniSingh?tab=followers)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Anji-91)
+[![Profile Views](https://komarev.com/ghpvc/?username=Anji-91&style=for-the-badge&color=00E5FF&labelColor=4A0E0E)](https://github.com/Anji-91)
+[![GitHub](https://img.shields.io/badge/GitHub-Anji--91-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0E0E)](https://github.com/Anji-91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A0E0E)](https://www.linkedin.com/in/anjani-singh-6bb790261/)
+[![Instagram](https://img.shields.io/badge/Instagram-Creative%20Feed-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A0E0E)](https://www.instagram.com/anjani._.26/)
 
 </div>
 
 ---
 
-## About Me
+## Mission Briefing
 
-I am a developer and creator from India, blending code, design, video, and AI into practical digital experiences. My work is shaped by modern web craft, storytelling instincts, and the spiritual calm of the Ganga River.
+```yaml
+call_sign: Anjani Singh
+base: India
+core_drive: Build useful tech with memorable creative energy
+main_systems:
+  - Web development
+  - AI and automation
+  - Short video editing
+  - Logo and brand design
+creative_fuel:
+  - Ganga River calm
+  - Cinematic storytelling
+  - Clean interfaces
+  - Fast experiments
+```
 
-```txt
-Focus        Web development, AI automation, creative tools
-Creative     Short-form video editing, logos, branding, storytelling
-Learning     AI workflows, product thinking, business automation
-Energy       Clean design, fast execution, meaningful ideas
+I build like a developer and think like a creator. My sweet spot is where a sharp interface, a practical AI idea, and a strong visual story all meet on the same screen.
+
+---
+
+## Suit Systems
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>Mark I: Web Armor</h3>
+      <p>Responsive pages, sleek UI, landing experiences, and browser-based products that feel clean and fast.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Mark II: AI Core</h3>
+      <p>AI tools, automation ideas, data workflows, and experiments that turn manual work into smart systems.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Mark III: Edit Bay</h3>
+      <p>Short-form video editing for Instagram and YouTube with hooks, pacing, cuts, and strong visual rhythm.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Mark IV: Brand Engine</h3>
+      <p>Logo concepts, visual identity, creative direction, and storytelling shaped for modern digital brands.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Arc Reactor Stack
+
+<div align="center">
+
+### Frontend Power
+![HTML5](https://img.shields.io/badge/HTML5-FF3D00?style=for-the-badge&logo=html5&logoColor=white&labelColor=4A0E0E)
+![CSS3](https://img.shields.io/badge/CSS3-00A6FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=4A0E0E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5C542?style=for-the-badge&logo=javascript&logoColor=black&labelColor=4A0E0E)
+
+### AI + Data Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=4A0E0E)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=4A0E0E)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=4A0E0E)
+
+### Creative Lab
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=4A0E0E)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=4A0E0E)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white&labelColor=4A0E0E)
+
+</div>
+
+---
+
+## JARVIS Console
+
+```js
+const anjani = {
+  role: "web developer + AI enthusiast + creative editor",
+  buildMode: ["responsive UI", "AI workflows", "automation ideas"],
+  editMode: ["reels", "YouTube shorts", "brand visuals"],
+  designTaste: ["clean", "cinematic", "useful", "memorable"],
+  inspiration: "India, the Ganga River, and future-facing technology",
+  mission: "turn imagination into digital products people want to explore"
+};
 ```
 
 ---
 
-## What I Do
+## Mission Files
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Web Development</h3>
-      <p>Clean, responsive websites and web apps built with attention to usability, polish, and performance.</p>
+      <h3>Mission 01: AI Calorie Tracker</h3>
+      <p><strong>Objective:</strong> Analyze food images and estimate calories, macros, and nutrition insights.</p>
+      <p><strong>Power Used:</strong> AI, Python, web app thinking, product design.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>AI + Automation</h3>
-      <p>Exploring AI-powered tools, smart workflows, and automation ideas for practical business solutions.</p>
+      <h3>Mission 02: Asiatic Lion Conservation</h3>
+      <p><strong>Objective:</strong> Tell a wildlife preservation story with emotion, visuals, and awareness.</p>
+      <p><strong>Power Used:</strong> Research, video editing, storytelling, creative direction.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Creative Media</h3>
-      <p>Short videos, reels, logos, and visual stories crafted for Instagram, YouTube, and modern brands.</p>
+      <h3>Mission 03: Relationship Advice Chatbot</h3>
+      <p><strong>Objective:</strong> Build an AI chatbot concept that gives thoughtful relationship guidance.</p>
+      <p><strong>Power Used:</strong> AI automation, UX writing, chatbot flow, empathy-first design.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Tech Stack
+## Soundtrack While Building
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Programming + Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Creative Tools
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
-
-</div>
-
----
-
-## Featured Projects
-
-| Project | What It Does | Skills Used |
-| --- | --- | --- |
-| **AI-Based Calorie Tracker** | Analyzes food images and estimates calories, macros, and nutrition insights. | AI, Web App, Python |
-| **Asiatic Lion Conservation** | A creative storytelling project focused on awareness and wildlife preservation. | Video Editing, Research, Storytelling |
-| **Relationship Advice Chatbot** | AI-driven chatbot concept for thoughtful relationship guidance and support. | Chatbot, UX, AI Automation |
-
----
-
-## Creative Direction
-
-> Code gives ideas structure. Design gives them emotion. Story makes people remember.
-
-I like building projects that feel useful and alive: a clean interface, a strong visual identity, and a story behind the screen. Whether it is a web app, reel, logo, or AI workflow, I care about making the result simple, sharp, and memorable.
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnjaniSingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Anjani Singh GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaniSingh&theme=tokyonight&hide_border=true" alt="Anjani Singh GitHub streak" />
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniSingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
----
-
-## Creative Pulse
-
-<div align="center">
-
-[![Spotify](https://img.shields.io/badge/Spotify-Creative%20Mode%20On-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
-[![Mood](https://img.shields.io/badge/Mood-Coding%20%2B%20Editing-36BCF7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
-[![Inspiration](https://img.shields.io/badge/Inspiration-Ganga%20Vibes-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-Arc%20Reactor%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=4A0E0E)](https://open.spotify.com/)
+![Mode](https://img.shields.io/badge/Mode-Focus%20%2B%20Flow-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=4A0E0E)
+![Fuel](https://img.shields.io/badge/Fuel-Code%20%2B%20Creativity-F5C542?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0E0E)
 
 </div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>What I am listening to</h3>
-      <p>Lo-fi beats for coding, Bollywood soul for late-night edits, and cinematic background scores when an idea needs drama.</p>
-      <p><strong>Current vibe:</strong> calm focus, clean screens, sharp cuts.</p>
+      <h3>Playlist Mode</h3>
+      <p><strong>Coding:</strong> lo-fi beats, deep focus, clean loops.</p>
+      <p><strong>Editing:</strong> Bollywood soul, cinematic scores, high-energy drops.</p>
+      <p><strong>Designing:</strong> calm instrumentals with Ganga-side imagination.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Behind the screen</h3>
-      <p><strong>Building:</strong> AI-powered web ideas</p>
-      <p><strong>Editing:</strong> short videos with strong hooks</p>
-      <p><strong>Designing:</strong> logos and brand visuals</p>
-      <p><strong>Learning:</strong> automation that saves real time</p>
+      <h3>Current Creative Signal</h3>
+      <p><strong>Brain:</strong> building AI-powered web ideas.</p>
+      <p><strong>Eyes:</strong> looking for cleaner layouts and stronger visual identity.</p>
+      <p><strong>Hands:</strong> editing, designing, coding, repeating.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Let's Connect
+## GitHub Power Readout
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjani-singh-6bb790261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anjani._.26/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anji-91)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anji-91&show_icons=true&hide_border=true&title_color=F5C542&text_color=E6EDF3&icon_color=00E5FF&bg_color=0D1117" alt="Anjani Singh GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anji-91&hide_border=true&background=0D1117&ring=F5C542&fire=FF3D00&currStreakLabel=00E5FF&sideLabels=F5C542&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Anjani Singh GitHub streak" />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anji-91&layout=compact&hide_border=true&title_color=F5C542&text_color=E6EDF3&bg_color=0D1117" alt="Top languages" />
+
+</div>
+
+---
+
+## Collaboration Portal
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Build With Me</h3>
+      <p>Websites, landing pages, AI tool concepts, dashboards, and practical automation flows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Create With Me</h3>
+      <p>Reels, shorts, brand visuals, logo concepts, and storytelling projects with a strong hook.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Explore With Me</h3>
+      <p>AI experiments, creative tech ideas, product concepts, and future-ready business solutions.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A0E0E)](https://www.linkedin.com/in/anjani-singh-6bb790261/)
+[![Instagram](https://img.shields.io/badge/Instagram-See%20My%20Edits-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A0E0E)](https://www.instagram.com/anjani._.26/)
+[![GitHub](https://img.shields.io/badge/GitHub-Enter%20The%20Lab-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0E0E)](https://github.com/Anji-91)
 
 </div>
 
@@ -145,8 +195,8 @@ I like building projects that feel useful and alive: a clean interface, a strong
 
 <div align="center">
 
-### "Creating digital experiences where technology meets imagination."
+### Building digital armor for bold ideas.
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7C3AED&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00E5FF,45:F59E0B,75:B91C1C,100:4A0E0E)
 
 </div>
