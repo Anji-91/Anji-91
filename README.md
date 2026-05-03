@@ -2,7 +2,7 @@
 
 ![Arc Reactor Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4A0E0E,45:B91C1C,75:F59E0B,100:00E5FF&text=ANJANI%20SINGH&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Web%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Editor&descAlignY=58&descSize=18&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=850&color=00E5FF&center=true&vCenter=true&width=780&lines=JARVIS%3A+Developer+mode+initialized;Arc+reactor+online+%7C+Ideas+charging;Building+web+apps+with+AI+power;Editing+stories+frame+by+frame;Deploying+creativity+from+India+to+the+world)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=850&color=00E5FF&center=true&vCenter=true&width=780&lines=JARVIS%3A+Build+sequence+initialized;Writing+interfaces+that+feel+clear;Combining+AI%2C+web%2C+and+visual+storytelling;Editing+ideas+until+they+feel+sharp;Shipping+from+India+with+global+intent)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Anji-91&style=for-the-badge&color=00E5FF&labelColor=4A0E0E)](https://github.com/Anji-91)
 [![GitHub](https://img.shields.io/badge/GitHub-Anji--91-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0E0E)](https://github.com/Anji-91)
@@ -24,14 +24,14 @@ main_systems:
   - AI and automation
   - Short video editing
   - Logo and brand design
-creative_fuel:
-  - Ganga River calm
-  - Cinematic storytelling
-  - Clean interfaces
-  - Fast experiments
+creative_compass:
+  - Indian roots with a global builder mindset
+  - Interfaces that feel clear, fast, and intentional
+  - AI used for real utility, not just hype
+  - Visual stories that hold attention in the first few seconds
 ```
 
-I build like a developer and think like a creator. My sweet spot is where a sharp interface, a practical AI idea, and a strong visual story all meet on the same screen.
+I work at the intersection of code, content, and intelligent systems. For me, a good digital product is not only functional; it should feel focused, visually sharp, and worth remembering after someone closes the tab.
 
 ---
 
@@ -87,67 +87,89 @@ I build like a developer and think like a creator. My sweet spot is where a shar
 
 ```js
 const anjani = {
-  role: "web developer + AI enthusiast + creative editor",
-  buildMode: ["responsive UI", "AI workflows", "automation ideas"],
-  editMode: ["reels", "YouTube shorts", "brand visuals"],
-  designTaste: ["clean", "cinematic", "useful", "memorable"],
+  role: "developer, AI explorer, and visual storyteller",
+  buildMode: ["responsive interfaces", "AI workflows", "automation concepts"],
+  editMode: ["short-form video", "brand visuals", "story-first content"],
+  designTaste: ["clear", "cinematic", "practical", "memorable"],
   inspiration: "India, the Ganga River, and future-facing technology",
-  mission: "turn imagination into digital products people want to explore"
+  mission: "build digital work that feels useful, focused, and visually alive"
 };
 ```
 
 ---
 
-## Mission Files
+## Featured Builds
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Mission 01: AI Calorie Tracker</h3>
-      <p><strong>Objective:</strong> Analyze food images and estimate calories, macros, and nutrition insights.</p>
-      <p><strong>Power Used:</strong> AI, Python, web app thinking, product design.</p>
+      <h3>AI Calorie Tracker</h3>
+      <p>A food image analysis concept that turns a simple meal photo into estimated calories, macros, and useful nutrition context.</p>
+      <p><strong>Why it matters:</strong> health tracking becomes easier when the interface removes friction instead of adding more steps.</p>
+      <p><strong>Stack direction:</strong> AI vision, Python, nutrition data, responsive web UI.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Mission 02: Asiatic Lion Conservation</h3>
-      <p><strong>Objective:</strong> Tell a wildlife preservation story with emotion, visuals, and awareness.</p>
-      <p><strong>Power Used:</strong> Research, video editing, storytelling, creative direction.</p>
+      <h3>Asiatic Lion Conservation</h3>
+      <p>A visual storytelling project built around wildlife awareness, emotional pacing, and respect for India's natural heritage.</p>
+      <p><strong>Why it matters:</strong> conservation stories need more than information; they need visuals that make people pause.</p>
+      <p><strong>Stack direction:</strong> research, editing, narrative structure, creative direction.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Mission 03: Relationship Advice Chatbot</h3>
-      <p><strong>Objective:</strong> Build an AI chatbot concept that gives thoughtful relationship guidance.</p>
-      <p><strong>Power Used:</strong> AI automation, UX writing, chatbot flow, empathy-first design.</p>
+      <h3>Relationship Advice Chatbot</h3>
+      <p>An AI chatbot concept designed to guide difficult conversations with clarity, calm language, and thoughtful prompts.</p>
+      <p><strong>Why it matters:</strong> emotional products need careful UX, not generic answers pretending to understand people.</p>
+      <p><strong>Stack direction:</strong> chatbot flow, AI automation, UX writing, safety-first design.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Soundtrack While Building
+## Studio Frequency
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/Spotify-Arc%20Reactor%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=4A0E0E)](https://open.spotify.com/)
-![Mode](https://img.shields.io/badge/Mode-Focus%20%2B%20Flow-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=4A0E0E)
-![Fuel](https://img.shields.io/badge/Fuel-Code%20%2B%20Creativity-F5C542?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0E0E)
+[![Spotify](https://img.shields.io/badge/Spotify-Listening%20Mode-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=4A0E0E)](https://open.spotify.com/)
+![Focus](https://img.shields.io/badge/Focus-Deep%20Work-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=4A0E0E)
+![Edit Mode](https://img.shields.io/badge/Edit%20Mode-Cinematic-F5C542?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=4A0E0E)
+![Mood](https://img.shields.io/badge/Mood-Desi%20%2B%20Future-FF3D00?style=for-the-badge&logo=spotify&logoColor=white&labelColor=4A0E0E)
 
 </div>
 
+Music sets the pace for how I work: quiet loops for logic, cinematic energy for edits, lyrical tracks for emotion, and electronic tracks when it is time to polish and ship.
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Playlist Mode</h3>
-      <p><strong>Coding:</strong> lo-fi beats, deep focus, clean loops.</p>
-      <p><strong>Editing:</strong> Bollywood soul, cinematic scores, high-energy drops.</p>
-      <p><strong>Designing:</strong> calm instrumentals with Ganga-side imagination.</p>
+    <td width="25%" valign="top">
+      <h3>01 Logic</h3>
+      <p><strong>Sound:</strong> lo-fi, ambient, minimal beats.</p>
+      <p><strong>Use:</strong> writing code, debugging, building clean layouts.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Current Creative Signal</h3>
-      <p><strong>Brain:</strong> building AI-powered web ideas.</p>
-      <p><strong>Eyes:</strong> looking for cleaner layouts and stronger visual identity.</p>
-      <p><strong>Hands:</strong> editing, designing, coding, repeating.</p>
+    <td width="25%" valign="top">
+      <h3>02 Motion</h3>
+      <p><strong>Sound:</strong> cinematic scores and high-energy drops.</p>
+      <p><strong>Use:</strong> editing reels, pacing cuts, building visual rhythm.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>03 Emotion</h3>
+      <p><strong>Sound:</strong> Hindi indie, Bollywood soul, lyrical tracks.</p>
+      <p><strong>Use:</strong> storytelling, brand mood, human-centered ideas.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>04 Launch</h3>
+      <p><strong>Sound:</strong> synthwave, electronic, future bass.</p>
+      <p><strong>Use:</strong> final polish, commits, uploads, and deployment energy.</p>
     </td>
   </tr>
 </table>
+
+```txt
+CURRENT SIGNAL
+Code focus        [#########-] 90%
+Visual direction  [########--] 80%
+Story instinct    [########--] 80%
+Launch energy     [#######---] 70%
+```
 
 ---
 
@@ -195,7 +217,7 @@ const anjani = {
 
 <div align="center">
 
-### Building digital armor for bold ideas.
+### Designing, building, and shipping one sharper idea at a time.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00E5FF,45:F59E0B,75:B91C1C,100:4A0E0E)
 
